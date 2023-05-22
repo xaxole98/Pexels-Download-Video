@@ -34,7 +34,7 @@ Antes de utilizar esta aplicación, asegúrate de tener instaladas las siguiente
 
 1. Clona este repositorio en tu máquina local.
 2. Instala las dependencias necesarias utilizando `pip` o cualquier otro gestor de paquetes de Python. Puedes ejecutar el siguiente comando: `pip install -r requirements.txt`.
-3. Configura los parámetros de descarga en el archivo `start.py` según tus preferencias.
+3. Configura los parámetros de descarga en el archivo `config/config.json` según tus preferencias.
 4. Ejecuta el archivo `start.py` para iniciar la descarga de videos.
 
 ¡Disfruta descargando videos de alta calidad con la ayuda de la API de Pexels!
