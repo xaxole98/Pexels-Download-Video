@@ -2,39 +2,45 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)[![Telegram](https://img.shields.io/badge/Telegram-xaxole98-blue.svg)](https://t.me/xaxole98)
 
-Este proyecto tiene como objetivo proporcionar un código en Python que permite descargar videos utilizando la API de Pexels. Pexels es una plataforma popular para encontrar y descargar contenido multimedia de alta calidad de forma gratuita, y esta aplicación te permitirá aprovechar su amplia colección de videos.
+## Language / Idioma
 
-## Características
+- [English](README.md)
+- [Español](README_ES.md)
 
-- Descarga de videos: Utilizando la API de Pexels, esta aplicación te permite buscar y descargar videos de forma sencilla. Puedes especificar palabras clave, categorías o etiquetas para encontrar los videos que se ajusten a tus necesidades.
+This project aims to provide Python code that allows you to download videos using the Pexels API. Pexels is a popular platform for finding and downloading high-quality multimedia content for free, and this application will enable you to leverage its extensive collection of videos.
 
-- Configuraciones personalizadas: Puedes ajustar parámetros como la calidad de los videos descargados, el formato de salida y el directorio de destino. La aplicación se encargará de manejar la interacción con la API y la descarga eficiente de los videos seleccionados.
+## Features
 
-- Fácil integración: El código proporcionado es claro y bien documentado, lo que facilita su integración en otros proyectos. También se incluye un archivo `requirements.txt` que especifica las dependencias necesarias para ejecutar el código sin problemas.
+- Video Downloading: Using the Pexels API, this application allows you to easily search and download videos. You can specify keywords, categories, or tags to find videos that fit your needs.
 
-## Requisitos previos
+- Customizable Settings: You can adjust parameters such as the quality of the downloaded videos, the output format, and the destination directory. The application takes care of handling the API interaction and efficient downloading of the selected videos.
 
-Antes de utilizar esta aplicación, asegúrate de tener instaladas las siguientes dependencias:
+- Easy Integration: The provided code is clear and well-documented, making it easy to integrate into other projects. A `requirements.txt` file is also included, specifying the necessary dependencies to run the code smoothly.
+
+## Prerequisites
+
+Before using this application, make sure you have the following dependencies installed:
 
 - Python 3.x
-- Paquetes especificados en el archivo `requirements.txt`
-## Dependencias
+- Packages specified in the `requirements.txt` file
 
-- [ffmpeg](https://ffmpeg.org/): Versión 1.4
-- [moviepy](https://pypi.org/project/moviepy/): Versión 1.0.3
-- [Pillow](https://python-pillow.org/): Versión 9.4.0
-- [requests](https://pypi.org/project/requests/): Versión 2.28.2
+## Dependencies
 
-## Uso
+- [ffmpeg](https://ffmpeg.org/): Version 1.4
+- [moviepy](https://pypi.org/project/moviepy/): Version 1.0.3
+- [Pillow](https://python-pillow.org/): Version 9.4.0
+- [requests](https://pypi.org/project/requests/): Version 2.28.2
 
-1. Clona este repositorio en tu máquina local.
-2. Instala las dependencias necesarias utilizando `pip` o cualquier otro gestor de paquetes de Python. Puedes ejecutar el siguiente comando: `pip install -r requirements.txt`.
-3. Configura los parámetros de descarga en el archivo `start.py` según tus preferencias.
-4. Ejecuta el archivo `start.py` para iniciar la descarga de videos.
+## Usage
 
-¡Disfruta descargando videos de alta calidad con la ayuda de la API de Pexels!
+1. Clone this repository to your local machine.
+2. Install the necessary dependencies using `pip` or any other Python package manager. You can run the following command: `pip install -r requirements.txt`.
+3. Configure the download parameters in the `start.py` file according to your preferences.
+4. Run the `start.py` file to initiate the video download.
 
-Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
+Enjoy downloading high-quality videos with the help of the Pexels API!
+
+If you have any questions or need further information, feel free to contact us.
 
 ---
-Recuerda personalizar la descripción según las características y detalles específicos de tu proyecto. También es importante incluir instrucciones claras para la instalación y uso del código, y estar disponible para responder preguntas o proporcionar ayuda adicional.
+Remember to customize the description based on the specific features and details of your project. It is also important to include clear instructions for installation and usage of the code and be available to answer questions or provide additional support.
