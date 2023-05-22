@@ -1,0 +1,31 @@
+{
+    "find_location": {
+        "function_name": "find_location",
+        "file_path": "/modules/find_location.py"
+    }
+    "get_config_parameters": {
+        "function_name": "get_config_parameters",
+        "file_path": "../modules/get_config_parameters.py"
+    }
+	    "execute_function": {
+        "function_name": "execute_function",
+        "file_path": "../modules/execute_function.py"
+    }
+	    "verify_parameters": {
+        "function_name": "verify_parameters",
+        "file_path": "../modules/verify_parameters.py"
+    }
+	    "find_function": {
+        "function_name": "find_function",
+        "file_path": "../modules/find_function.py"
+    }
+	    "verify_downloadtype": {
+        "function_name": "verify_downloadtype",
+        "file_path": "../modules/verify_downloadtype.py"
+    }
+	    "query_download": {
+        "function_name": "query_download",
+        "file_path": "../modules/query_download.py"
+    }
+	
+}

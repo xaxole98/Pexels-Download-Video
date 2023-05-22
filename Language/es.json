@@ -1,0 +1,16 @@
+{
+	"add_api_key_prompt": "Ingrese las claves API una por una, escriba 'STOP' para dejar de agregar mas claves",                            
+	"enter_api_key_prompt": "Ingrese la clave API:",
+	"valid_api_key_message": "La clave API es valida",
+	"invalid_api_key_message": "La clave API no es valida, por favor intentelo de nuevo",
+	"query_or_collection": "¿Quieres descargar mediante query o collection? ",
+    "invalid_input": "Entrada inválida, por favor inténtalo de nuevo",
+	"configure_settings_first_prompt": "\nConfigure porfavor primero bien los Settings y vuelva",
+	"configure_settings_first_prompt1": "\nTipo de descarga configurado correctamente",
+	"configure_settings_first_prompt2": "\nTipo de resolucion configurado correctamente",
+	"resolution_error": "\nNo permitimos esta resolucion",
+	"download_type_error": "\nRevisa los archivos Settings algo esta mal",
+	"parameters_error1": "\nParametros colocados de forma incorrecta",
+	"parameters_success": "\nTipos de Parametros colocados de forma correcta"
+	
+}

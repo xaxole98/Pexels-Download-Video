@@ -1,0 +1,15 @@
+{
+    "add_api_key_prompt": "Enter API keys one by one, type 'STOP' to stop adding more keys",
+    "enter_api_key_prompt": "Enter API key",
+    "valid_api_key_message": "API key is valid",
+    "invalid_api_key_message": "API key is invalid, please try again",
+	"query_or_collection": "Do you want to download through query or collection? ",
+	"invalid_input": "Invalid input, please try again"
+	"configure_settings_first_prompt": "Please configure the Settings first and try again",
+	"configure_settings_first_prompt1": "n\nDownload type successfully configured",
+	"configure_settings_first_prompt2": "\nResolution type configured correctly",
+	"resolution_error": "\nWe do not allow this resolution",
+	"download_type_error": "\nCheck the Settings files, something is wrong",
+	"parameters_error1": "Incorrectly placed parameters",
+	"parameters_success": "Parameter types placed correctly"
+}

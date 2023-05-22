@@ -1,0 +1,14 @@
+{
+    "ApiKeys_savelocation": "./settings/config.json",
+    "sound_savelocation": "./settings/config.json",
+    "language_savelocation": "./settings/config.json",
+    "media_type_savelocation": "./settings/config.json",
+    "orientation_savelocation": "./settings/config.json",
+    "size_savelocation": "./settings/config.json",
+    "page_savelocation": "./settings/config.json",
+    "per_page_savelocation": "./settings/config.json",
+    "query_savelocation": "./settings/config.json",
+    "save_savelocation": "./settings/config.json",
+    "resolution_savelocation": "./settings/config.json",
+    "typedownload_savelocation": "./settings/config.json"
+}
