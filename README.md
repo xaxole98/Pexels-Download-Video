@@ -35,7 +35,7 @@ Before using this application, make sure you have the following dependencies ins
 
 1. Clone this repository to your local machine.
 2. Install the necessary dependencies using `pip` or any other Python package manager. You can run the following command: `pip install -r requirements.txt`.
-3. Configure the download parameters in the `start.py` file according to your preferences.
+3. Configure the download parameters in the `config/config.json` file according to your preferences.
 4. Run the `start.py` file to initiate the video download.
 
 Enjoy downloading high-quality videos with the help of the Pexels API!
