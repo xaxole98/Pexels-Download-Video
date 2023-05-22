@@ -41,5 +41,3 @@ Antes de utilizar esta aplicación, asegúrate de tener instaladas las siguiente
 
 Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.
 
----
-Recuerda personalizar la descripción según las características y detalles específicos de tu proyecto. También es importante incluir instrucciones claras para la instalación y uso del código, y estar disponible para responder preguntas o proporcionar ayuda adicional.
