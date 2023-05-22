@@ -42,5 +42,3 @@ Enjoy downloading high-quality videos with the help of the Pexels API!
 
 If you have any questions or need further information, feel free to contact us.
 
----
-Remember to customize the description based on the specific features and details of your project. It is also important to include clear instructions for installation and usage of the code and be available to answer questions or provide additional support.
